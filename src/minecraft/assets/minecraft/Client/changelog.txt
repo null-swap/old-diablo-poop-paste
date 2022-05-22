@@ -1,0 +1,12 @@
+vince is now lonely
+you can cope with timer disabler
+added new autobloc
+added new noslow
+changed crit values
+added full timer disabler
+improved watchdog fly (alot)
+improved scaffold (alot)
+improved speed (WatchdogLow)
+
+please note that we do not have strafe disabler ATM
+please use watchdog low speed
